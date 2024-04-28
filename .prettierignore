@@ -1,0 +1,32 @@
+# Ignore build output
+/.next
+
+# Ignore node_modules directory
+/node_modules
+
+# Ignore coverage reports
+/coverage
+
+# Ignore static files
+/public
+
+# Ignore log files
+/logs
+
+# Ignore temporary files
+/.tmp
+
+# Ignore compiled files
+/*.js
+
+# Ignore TypeScript declaration files
+/*.d.ts
+
+# Ignore test files
+/*.test.js
+/*.spec.js
+
+# Ignore config files
+/.eslintrc.js
+/.babelrc.js
+/.prettierrc.js
